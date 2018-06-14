@@ -1,4 +1,4 @@
-# yelling
+# YELLING
 
 ## FILES
 
